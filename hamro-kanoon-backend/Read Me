@@ -1,0 +1,10 @@
+Future ma "New York Times" Level ma scale garda k k thapna sakincha?
+Yadi pachi app thulo hudai gayo ra features thapna paryo bhane, tapailay yi kura haru bare sochna saknuहुन्छ:
+
+Comments System: User harule kanoon ko barema aafno bichar rakhna sakne (Comment ra Reply model).
+
+Dynamic Categories: Ahile category haru enum ma fix chan. Pachi backend batai naya category thapna milne (Category Model) banauna sakincha.
+
+Advanced Analytics: Ahile normal views count cha. Pachi "Trending Today" ya "Most Read This Week" nikalna ko lagi views lai date anusar track garne system.
+
+Newsletter / Email Notifications: Naya kanoon pass huda ya important news aaudha user lai email pathaune (Nodemailer or SendGrid use garera).
